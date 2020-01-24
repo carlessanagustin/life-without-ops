@@ -28,3 +28,22 @@
 * Legal/Security
 * IT
 * Marketing
+
+## Story
+
+### option 1
+
+1. 2 years running company
+2. Ops department is created
+3. review and fix
+
+### option 2
+
+Search a incentive:
+* Low & controlled costs
+* Good company public image
+* Secure
+
+### option 3
+
+* superhero? thor evolution?
