@@ -48,7 +48,7 @@ Search a incentive:
 
 * superhero? thor evolution?
 
-### Story Telling
+### Option 4
 
 We can start explain what is Devops Philosophy and how traditional companies worked and how are working in this moment. From Monolith to Microservices.
 
