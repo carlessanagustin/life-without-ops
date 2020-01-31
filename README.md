@@ -47,3 +47,21 @@ Search a incentive:
 ### option 3
 
 * superhero? thor evolution?
+
+### Story Telling
+
+We can start explain what is Devops Philosophy and how traditional companies worked and how are working in this moment. From Monolith to Microservices.
+
+In this new scenario what does a Devops Engineer?
+
+* Need to known how application is built
+* Focus is related to operation of:
+  * App Security
+  * Operational readiness
+  * Infrastructure
+  * Testing
+
+
+After explaining this new scenario we can expose our experience at SCRM. SCRM is a model that starts as a monolith (semi-traditional model) appplication without Ops ( no App security, no care about infrastructure) and now we are moving to a infrastructure with microservices.
+
+Link: https://learning.oreilly.com/videos/devops-fundamentals/9781789345742/9781789345742-video1_2
